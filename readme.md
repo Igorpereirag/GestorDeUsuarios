@@ -33,7 +33,7 @@ Sistema web para Gestão de usuários, onde você pode visualizar, adicionar, ed
 1. Execute o servidor Tomcat em sua IDE.
 2. Acesse a URL `http://localhost:8080/users_manipulation` em seu navegador.
 3. Ao iniciar a aplicação será exibido um tela de login e vocẽ poderá logar no sistema com seguntes credencias:
-Email: admin@example.com
+Email: "admin@example.com" 
 Senha: admin
 
 ## Funcionalidades
