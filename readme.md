@@ -43,10 +43,6 @@ Senha: admin
 - Editar informações de usuários existentes.
 - Excluir usuários da lista.
 
-## Autor
-
-Este projeto foi desenvolvido por [igor pereira].
-
 ---
 
 Sinta-se à vontade para abrir PRs e relatar problemas
