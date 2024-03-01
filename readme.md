@@ -1,7 +1,7 @@
 
 # Sistema de Gestão de Usuários
 
-Sistema web para Gestão de usuários,você poderá visualizar, adicionar,editar e excluir usuários. Contem apenas duas intefaces a de login e tela home princiapal para realizar as operações de grud nun banco de dados sql 
+Sistema web para Gestão de usuários,você poderá visualizar, adicionar,editar e excluir usuários. Contem apenas duas intefaces a de login e tela home principal para realizar as operações de grud nun banco de dados sql 
 ![alt text](image.png)
 
 
