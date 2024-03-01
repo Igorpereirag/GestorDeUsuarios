@@ -13,6 +13,7 @@ Sistema web para Gestão de usuários,você poderá visualizar, adicionar,editar
 - JSTL (JSP Standard Tag Library)
 - MySQL
 - Maven
+- Html e Css
 
 ## Configuração do Banco de Dados
 
